@@ -1,3 +1,3 @@
 ## Django Pack
 
-Emacs-live pack for django-mode.
+Emacs-live pack for Python and Django

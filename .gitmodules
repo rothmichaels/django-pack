@@ -1,3 +1,9 @@
-[submodule "vendor/submodules/django-mode"]
-	path = vendor/submodules/django-mode
-	url = https://github.com/myfreeweb/django-mode.git
+[submodule "vendor/submodules/python-django"]
+	path = vendor/submodules/python-django
+	url = https://github.com/fgallina/python-django.el.git
+[submodule "vendor/submodules/web-mode"]
+	path = vendor/submodules/web-mode
+	url = https://github.com/fxbois/web-mode.git
+[submodule "vendor/submodules/virtualenvwrapper"]
+	path = vendor/submodules/virtualenvwrapper
+	url = https://github.com/porterjamesj/virtualenvwrapper.el.git
